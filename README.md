@@ -117,7 +117,7 @@
         <td align="center" width="90"><img height="55" src="./icons/css.svg" width="55"><br>CSS3</td>
         <td align="center" width="90"><img height="55" src="./icons/git.svg" width="55"><br>Git</td>
         <td align="center" width="90"><img height="55" src="./icons/github.svg" width="55"><br>GitHub</td>
-        <td align="center" width="90"><img height="55" src="./icons/docker.svg" width="55"><br>Docker</td>
+        <!-- <td align="center" width="90"><img height="55" src="./icons/docker.svg" width="55"><br>Docker</td> -->
         <td align="center" width="90"><img height="55" src="./icons/postman.svg" width="55"><br>Postman</td>
     </tr>
 </table>
