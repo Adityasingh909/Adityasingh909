@@ -105,7 +105,7 @@
         <td align="center" width="90"><img height="55" src="./icons/c.svg" width="55"><br>C / C++</td>
         <td align="center" width="90"><img height="55" src="./icons/java.svg" width="55"><br>Java</td>
         <td align="center" width="90"><img height="55" src="./icons/react.svg" width="55"><br>React</td>
-        <td align="center" width="90"><img height="55" src="./icons/vite.svg" width="55"><br>Vite</td>
+        <!-- <td align="center" width="90"><img height="55" src="./icons/vite.svg" width="55"><br>Vite</td> -->
         <td align="center" width="90"><img height="55" src="./icons/nodejs.svg" width="55"><br>Node.js</td>
         <td align="center" width="90"><img height="55" src="./icons/express.svg" width="55"><br>Express.js</td>
     </tr>
